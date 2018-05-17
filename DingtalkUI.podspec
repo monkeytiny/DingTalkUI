@@ -4,13 +4,13 @@ Pod::Spec.new do |spec|
   spec.summary          = "DingtalkUI for DingtalkPod [MonkeyDev]"
   spec.description      = "DingtalkPod 修改钉钉GPS打卡位置,需要MonkeyDev"
 
-  spec.homepage         = "https://github.com/NearEven/DingTalkUI"   #Pod的地址
+  spec.homepage         = "https://github.com/monkeytiny/DingTalkUI"   #Pod的地址
 
   # spec.license          = { :type => "MIT", :file => "LICENSE" }          #License
   spec.author           = { "NearEven" => "nearby.xu@gmail.com}" }   #作者
   spec.social_media_url = "http://evenxu.cc"                   #weibo
   spec.platform         = :ios, "8.0"                                     #平台、版本 
-  spec.source           = {:git => "https://github.com/NearEven/DingTalkUI.git"}  #代码的git地址以及tag
+  spec.source           = {:git => "https://github.com/monkeytiny/DingTalkUI.git"}  #代码的git地址以及tag
 
   spec.source_files     = "DingtalkUI/*.{h,m}" 
 
